@@ -41,8 +41,8 @@ I build data-driven solutions at the intersection of analytics, AI, and business
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://www.linkedin.com/in/saikale21/)
-[![Resume](https://drive.google.com/file/d/1e_FRRvjavdXR5a2ePhhHQV0dvcgtAJjm/view?usp=sharing)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saikale21/)
+- 📄 [Resume](https://drive.google.com/file/d/1e_FRRvjavdXR5a2ePhhHQV0dvcgtAJjm/view?usp=sharing)
 
 
 
