@@ -21,11 +21,11 @@ I build data-driven solutions at the intersection of analytics, AI, and business
 
 ## 🛠️ Skills & Tools
 
-**Languages:** Python · SQL  
-**Analytics & BI:** Power BI · Tableau · Excel  
-**Data Engineering:** Azure Data Factory · Databricks · ETL/ELT Pipelines  
-**ML & AI:** Scikit-learn · OpenAI GPT · Google Vision API  
-**Other:** Streamlit · Git · Scrum · Azure (AZ-900)
+**Languages:** Python · SQL 
+**Analytics & BI:** Power BI  · Excel  
+**Data Engineering:** Azure Data Factory(ELT) · Databricks · ETL Tool(Alteryx) 
+**ML & AI:** Scikit-learn · OpenAI GPT · NLP· Sentence Transformer(SBERT)  
+**Other:** Streamlit · Git
 
 ---
 
