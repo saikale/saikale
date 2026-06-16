@@ -13,10 +13,9 @@ I build data-driven solutions at the intersection of analytics, AI, and business
 | Project | Description | Stack |
 |---|---|---|
 | [InsightHire](https://github.com/saikale/InsightHire-Project) | AI-powered employability analytics platform — MSc final project in collaboration with CeADAR, Ireland | Python, Power BI, NLP |
-| [Sales Revenue Dashboard](https://github.com/saikale/Project-1-Sales-Revenue-Analytics-Dashboard) | End-to-end sales analytics dashboard with KPI tracking and trend analysis | Python, Power BI |
-| [Vision Project](https://github.com/saikale/Vision_Project) | Document intelligence app using Google Vision API and Generative AI | Python, GenAI, Google Vision |
+
 | [Startup Funding Analysis](https://github.com/saikale/startup-funding-analysis) | EDA on Indian startup funding trends — sectors, investors, funding rounds | Python, Pandas |
-| [IPL Analysis 2023](https://github.com/saikale/IPL-Analysis-2023) | Data storytelling on IPL 2023 — player performance, match outcomes | Python, Pandas |
+
 | [Bangalore Real Estate Analysis](https://github.com/saikale/bangalore-real-estate-analysis) | House price prediction and market trend analysis | Python, ML, Pandas |
 
 ---
