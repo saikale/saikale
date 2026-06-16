@@ -14,9 +14,7 @@ I build data-driven solutions at the intersection of analytics, AI, and business
 |---|---|---|
 | [InsightHire](https://github.com/saikale/InsightHire-Project) | AI-powered employability analytics platform — MSc final project in collaboration with CeADAR, Ireland | Python, Power BI, NLP |
 | [Startup Funding Analysis](https://github.com/saikale/startup-funding-analysis) | EDA on Indian startup funding trends — sectors, investors, funding rounds | Python, Pandas |
-|---|---|---|
 | [Bangalore Real Estate Analysis](https://github.com/saikale/bangalore-real-estate-analysis) | House price prediction and market trend analysis | Python, ML, Pandas |
-|---|---|---|
 | [Interview Feedback System using ChatGPT](https://github.com/saikale/Hackathon) | Interview Feedback using OpenAI | Python, NLP |
 
 ---
